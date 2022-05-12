@@ -4,6 +4,6 @@
 
 
 //Ecma js
-import {ecmaScript} from "./commonJSvsEcmaJS2.mjs"
+import ecmaScript from "./commonJSvsEcmaJS2.mjs"
 
 ecmaScript()
